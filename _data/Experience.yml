@@ -2,21 +2,16 @@ subject: Experiences
 listing-order: 2
 icon: "/assets/img/briefcase.svg"
 contents:
-  - title: Nanosoft
-    role: Project Manager
-    description:
-      - Led development of a new chatbot software utilizing large language model
-      - Co-designer of '*Kopilot*' and '*Gemmini*'
-    date: Jan. 2024 - Ongoing
-  - title: Amazone
-    role: Senior Software Engineer
+  - title: BCL Lab
+    role: Deep Learning Research Intern
     description: 
-      - Built a Java microservice, database schema to manage customer accounts
-      - Enhanced internal pipelines to query real-time data from client devices
-    date: Apr. 2016 - Dec. 2018
-  - title: Pacebook
-    role: Software Engineer Intern
+      - Developed a 3-layer Spiking Neural Network (SNN) model with the Numpy library
+      - Implemented users to run the power consumption simulator for simple AI models
+      - Converted a Python-based SNN model to C, reducing running time by 50% in the hardware porting process 
+    date: Jun. 2025 - Aug. 2025
+  - title: Undergraduate Teaching Assistant
+    role: Teaching Assistant for System Architecture (CSE 220)
     description: 
-      - Designed the dynamic website using React for data visualization
-      - Integrated '*Yolo*' to boost the accuracy of the object detection
-    date: Jul. 2013 - Sep. 2013
+      - Supported students who were struggling with C and Assembly language and low-level concepts
+      - Assisted students with their assignments through office hours, 4 hours per week
+    date: Feb. 2025 - Jun. 2025
