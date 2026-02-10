@@ -2,20 +2,24 @@ subject: Projects
 listing-order: 3
 icon: "/assets/img/clipboard-list.svg"
 contents:
-  - title: "ChatPPT ([https://chat.opena1.com/](https://chat.openai.com/))"
+  - title: "COTURIAL, coding tutorial website for users to learn and enjoy coding"
     description: 
-      - Chatbot developed based on a large language model
-      - Designed Generative algorithm to generate novel human-like content
-      - "Technology Used: Rust, Typescript, Python, Ruby"
+      - Designed and implemented the game tutorial website that provides help to coding beginners, integrating Node.js,  MySQL database, and React framework 
+      - Enabled users to post, question others’ questions, and watch language tutorial videos based on their preferences 
+      - Permitted users to report inappropriate posts and enabled an admin to delete those posts 
+      - "Technology Used: Node.js, MySQL, React"
     image: "![](https://i.ibb.co/hX2wYLB/231321.webp)"
-  - title: "AW5-cli ([https://github.com/aw5/aw5-cli](https://github.com/aws/aws-cli))"
+  - title: "SAM, SBU Academics Management System"
     description: 
-      - Universal Command Line Interface for Amazone Web Services
-      - Developed a scheme to facilitate users’ authentication without having to remember their credentials
-      - "Technology Used: Typescript, Python, Go"
-    image: "![](https://i.ibb.co/Ttb5Qn9/21321312.webp)"
-  - title: "PiTorch ([https://pitorch.org/](https://pytorch.org/))" 
+      - Implemented the scraping functionalities for Fall 2025 courses and incorporated the data into the database
+      - Constructed backend APIs and schemes in terms of SBU degree works and degree requirements for SBU majors and minors
+      - Displayed class capacity based on the lecture room, enabling professors to update their class capacity 
+      - "Technology Used: Java, SpringBoot, MySQL, React"
+    image: "![](assets/img/SAM.png)"
+  - title: "Spiking Neural Network (Spikformer) model for weapon detection dataset"
     description: 
-      - Machine learning library for applications such as computer vision and natural language processing
-      - "Technology Used: Python, Cuda, Objective-C++"
-    image: "![](https://i.ibb.co/R9150c4/12421323.webp)"
+      - Machine learning library for applications in computer vision
+      - "Constructed the preprocessing process to make it suitable for the AI deep learning model"
+      - "Controlled hyperparameters and tested, got an average accuracy of 83%, loss of 0.4 with 50 epochs in the case of knife and gun detection"
+      - "Technology Used: Python, Cuda"
+    image: "![](assets/img/simulator.png)"
