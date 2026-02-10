@@ -8,7 +8,7 @@ contents:
       - Enabled users to post, question others’ questions, and watch language tutorial videos based on their preferences 
       - Permitted users to report inappropriate posts and enabled an admin to delete those posts 
       - "Technology Used: Node.js, MySQL, React"
-    image: "![](https://i.ibb.co/hX2wYLB/231321.webp)"
+    image: "![](assets/img/COTURIAL.png)"
   - title: "SAM, SBU Academics Management System"
     description: 
       - Implemented the scraping functionalities for Fall 2025 courses and incorporated the data into the database
